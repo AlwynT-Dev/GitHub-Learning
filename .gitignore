@@ -1,0 +1,20 @@
+# .gitignore — tells Git which files to ignore completely.
+# Lines starting with '#' are comments (notes for humans, ignored by Git).
+
+# Ignore one specific file by name:
+scratch.txt
+
+# Ignore by pattern: '*' means "anything". So *.log = every file ending in .log
+*.log
+*.tmp
+
+# Ignore OS / editor junk files:
+Thumbs.db
+.DS_Store
+
+# Ignore secrets (NEVER commit passwords or API keys):
+.env
+
+# Ignore whole folders by ending the line with '/':
+# node_modules/
+# build/
