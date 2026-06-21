@@ -16,6 +16,7 @@ This is my hands-on lab for learning Git and GitHub from scratch.
 - Pushed my project online to GitHub!
 - How to branch, merge, and resolve conflicts.
 - How to open a Pull Request for review.
+- How to use the GitHub CLI (gh) to manage PRs from the terminal.
 
 ## My goals with Git & GitHub
 - Use version control for every project I build.
