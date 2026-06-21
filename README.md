@@ -14,3 +14,8 @@ This is my hands-on lab for learning Git and GitHub from scratch.
 - Made my first commit by hand!
 - How to undo safely (git restore) and ignore files (.gitignore).
 - Pushed my project online to GitHub!
+
+## My goals with Git & GitHub
+- Use version control for every project I build.
+- Collaborate with others using branches and pull requests.
+- Build a portfolio on my GitHub profile.
