@@ -10,3 +10,5 @@ This is my hands-on lab for learning Git and GitHub from scratch.
 - The difference between Git (local tool) and GitHub (online host).
 - How to configure my Git identity.
 - How to create a repository and make commits.
+- The three areas: working directory -> staging (git add) -> commit.
+- Made my first commit by hand!
